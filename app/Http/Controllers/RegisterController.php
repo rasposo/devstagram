@@ -52,7 +52,6 @@ class RegisterController extends Controller
 
 
 
-
         //Redirección al muro
         return redirect()->route('posts.index');
     
